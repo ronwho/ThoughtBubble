@@ -7,8 +7,8 @@ This is still a work in progress but so far here are the features:
 2. The application will do error checking on register forms
 3. Once a user is registered, they can login and edit their profile such as editing their email and changing their profile picture.
 
-![](/imgs/tb1.JPG)
-![](/imgs/tb2.JPG)
-![](/imgs/tb3.JPG)
-![](/imgs/tb4.JPG)
-![](/imgs/tb5.JPG)
+![](/img/tb1.JPG)
+![](/img/tb2.JPG)
+![](/img/tb3.JPG)
+![](/img/tb4.JPG)
+![](/img/tb5.JPG)
