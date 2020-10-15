@@ -1,6 +1,6 @@
 # ThoughtBubble
 
-#### ThoughtBubble is a blog web application using Flask microframework where users can post snippets of their everyday philosophical thoughts. This is a fun project for me as it introduces me how to build a simple web application using Flask.
+#### ThoughtBubble is a blog web application built using  Python Flask microframework where users can post snippets of their everyday philosophical thoughts. This is a fun project for me as it introduces me how to build a simple web application using Flask.
 
 This is still a work in progress but so far here are the features:
 1. Users can register and make an account
